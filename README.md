@@ -1,7 +1,8 @@
 
 # Roulette-ball-tracking
 
-Track the moving ball in roulette using open cv
+Track the moving ball in roulette using ![Androidstudio](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
+
 
 # Result
 
