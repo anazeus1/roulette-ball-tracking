@@ -8,55 +8,11 @@ Track the moving ball in roulette using ![Androidstudio](https://img.shields.io/
 
 https://github.com/anazeus1/roulette-ball-tracking/assets/57845371/ae70fdaf-4bfc-4bfc-9fc3-3b5111ffb2e2
 
-
-# corona-cli
-
-- 🚀 Get worldwide Coronavirus disease (COVID-19) reporting
-- 🤯 Active daily reporting of your country's COVID-19 statistics
-- 🇺🇸 Get US States data for Coronavirus disease reports across the US
-- 🗃️ Data: Country, Cases, Deaths, Recovered, Active, Critical, Per Million
-- 📈 Charts: Plot statistics in the form of line charts both regular and logarithmic
-- 📟 Sort: `cases`, `cases-today`, `deaths`, `deaths-today`, `recovered`, `active`, `critical`, `per-million`
-
-<br>
-
-[![Watch Awais talk about corona-cli](./.github/talk.jpg)](https://www.youtube.com/watch?v=8pMxyyApG8g)
-
-<br>
-
-[![📟](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/install.png)](./../../)
-
-## Install
-
-```sh
-# Install globally (recommended).
-npm install -g corona-cli
-
-# Or run directly with npx (installs CLI on every run).
-npx corona-cli
-```
-
-[![📟](./.github/install.gif)](./../../)
-
-
-<br>
-
-[![⚙️](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/usage.png)](./../../)
-
 ## Usage
 
-### All Countries
+### Get coordinates
 
-```sh
-# Display data for all countries.
-corona
-
-# Display data for all countries in single color.
-corona --xcolor
-
-# Alias: Display data for all countries in single color.
-corona -x
-```
+![Screenshot 2023-09-07 142243](https://github.com/anazeus1/roulette-ball-tracking/assets/57845371/21a9e26f-517f-4024-8054-4ebd1bf37c6c)
 
 [![📟](./.github/corona.gif)](./../../)
 
