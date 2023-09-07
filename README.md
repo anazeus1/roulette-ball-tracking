@@ -4,11 +4,9 @@
 Track the moving ball in roulette using open cv
 
 # Result
-https://github.com/anazeus1/roulette-ball-tracking/issues/1#issue-1853896879
 
-</h4>
+https://github.com/anazeus1/roulette-ball-tracking/assets/57845371/ae70fdaf-4bfc-4bfc-9fc3-3b5111ffb2e2
 
-<br>
 
 # corona-cli
 
