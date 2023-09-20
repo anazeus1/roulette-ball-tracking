@@ -25,3 +25,18 @@ https://github.com/anazeus1/roulette-ball-tracking/assets/57845371/ae70fdaf-4bfc
 ### crop screenshot
 ![cropped_image](https://github.com/anazeus1/roulette-ball-tracking/assets/57845371/93a4149a-cf99-4439-9218-587b39e53cb3)
 
+### convert image to gray
+
+![gray_image](https://github.com/anazeus1/roulette-ball-tracking/assets/57845371/f696ea6f-a8db-4f44-9c7d-c0c888c87b83)
+
+### blur the image  
+We should specify the width and height of the kernel which should be positive and odd.
+
+![blurred_image](https://github.com/anazeus1/roulette-ball-tracking/assets/57845371/bc94ccb5-cd6e-4229-96a1-eaa4f529bf22)
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
